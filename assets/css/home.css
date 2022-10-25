@@ -425,6 +425,7 @@
 .content-news-item-title,
 .content-news-item-text {
     text-align: justify;
+    color: var(--text-color);
 }
 
 .content-news-item:hover .content-news-item-title {
